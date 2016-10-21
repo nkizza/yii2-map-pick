@@ -25,7 +25,7 @@
   * ]);?>
   */
   
-namespace common\widgets\mappick;
+namespace nkizza\mappick;
 
 use yii\helpers\Html;
 use yii\helpers\Json;
