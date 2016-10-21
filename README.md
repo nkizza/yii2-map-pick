@@ -6,11 +6,7 @@ Requires jQuery.
 # Installation
 
 The preferred way to install this extension is through composer.
-Either run
-```composer require nkizza/yii2-map-pick```
-or add
-```nkizza/yii2-map_pick```
-to the require section of your application's composer.json file.
+Either run ```composer require nkizza/yii2-map-pick``` or add ```nkizza/yii2-map_pick``` to the require section of your application's composer.json file.
 
 # Usage
 
