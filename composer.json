@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nkizza\\yii2-map-pick\\": ""
+            "nkizza\\mappick\\": ""
         }
     }
 }
